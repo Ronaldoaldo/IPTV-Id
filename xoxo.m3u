@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1, MTV Sweden 
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1, Blue Ant Entertainment
+http://210.210.155.35/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+#EXTINF:-1, Blue Ant Extreme
+http://210.210.155.35/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
+#EXTINF:-1, Box Hits UK
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1, AXN
+http://210.210.155.35/session/f362a58c-af4e-11eb-86ba-8bed8fbb6569/uq2663/h/h141/01.m3u8
+#EXTINF:-1, FOX
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1, FOX Life
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1, FOX Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1, GEM
+http://45.126.83.51/session/aa83967e-af48-11eb-92f3-be11bb503601/uq2663/h/h19/index.m3u8
+#EXTINF:-1, Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1, FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1, Thrill
+http://210.210.155.35/session/d7ea1b6a-af48-11eb-8c40-bdd8a250b19a/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+#EXTINF:-1, Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1, FOX Sport
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1, FOX Sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1, FOX Sport 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1, ABC Detroit
+https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
+#EXTINF:-1, CBS New York
+https://dai.google.com/linear/hls/pb/event/rtcMlf4RTvOEkaudeany5w/stream/a6e55659-d68a-4beb-851c-f9d21932afb4:SIN2/master.m3u8
+#EXTINF:-1, SKY News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1, CNN US
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, BBC World News
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+#EXTINF:-1, Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1, CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1, Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1, Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
